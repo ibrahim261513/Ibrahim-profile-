@@ -1,0 +1,94 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ibrahim Haidar Hassan - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      width: 80%;
+      margin: auto;
+      overflow: hidden;
+      padding: 20px;
+      background: white;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    header, section {
+      margin-bottom: 20px;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    img {
+      max-width: 150px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Ibrahim Haidar Hassan</h1>
+      <p>Email: brahemhasan2@gmail.com | Phone: +963 0981562088 | Location: Homs, Syria</p>
+      <img src="your-photo.jpg" alt="Profile Photo">
+    </header>
+
+    <section>
+      <h2>About Me</h2>
+      <p>I am a motivated and hardworking individual from Syria, currently studying Economics and Commerce at the University of Homs. I am passionate about contributing to hands-on work environments, especially in farming, construction, and general labor roles. I am currently looking for job opportunities in Canada and am fully willing to relocate and commit to any role offered.</p>
+    </section>
+
+    <section>
+      <h2>Resume</h2>
+      <h3>Education</h3>
+      <ul>
+        <li>Currently enrolled in Bachelor of Economics and Commerce – University of Homs</li>
+        <li>High School Diploma</li>
+      </ul>
+      <h3>Experience</h3>
+      <ul>
+        <li>Hands-on experience working on a family-owned farm</li>
+        <li>Familiar with general labor, basic construction tasks, and physical work</li>
+      </ul>
+      <h3>Skills</h3>
+      <ul>
+        <li>Physically fit and hardworking</li>
+        <li>Fast learner</li>
+        <li>Team player</li>
+        <li>Willing to relocate</li>
+        <li>Adaptable to various work environments</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Cover Letter</h2>
+      <p><strong>Date:</strong> April 11, 2025<br>
+      <strong>To:</strong> St. Soldier Farms Inc.<br>
+      <strong>Location:</strong> Bolton, ON</p>
+      <p>Dear Hiring Manager,</p>
+      <p>I am writing to express my interest in the Farm Worker position at St. Soldier Farms Inc. As a dedicated and hardworking individual, I am eager to contribute to your team and gain valuable work experience in Canada. Although I am currently residing in Syria, I am fully prepared to relocate and undergo the necessary immigration procedures upon receiving a valid job offer.</p>
+      <p>Thank you for considering my application. I look forward to the opportunity to support your team and grow professionally.</p>
+      <p>Sincerely,<br>
+      Ibrahim Haidar Hassan</p>
+    </section>
+
+    <section>
+      <h2>Contact Information</h2>
+      <p>Email: brahemhasan2@gmail.com<br>
+      Phone: +963 0981562088<br>
+      Location: Homs, Syria<br>
+      Available for relocation: Yes<br>
+      Availability: Immediate (after visa procedures)</p>
+    </section>
+  </div>
+</body>
+</html>
